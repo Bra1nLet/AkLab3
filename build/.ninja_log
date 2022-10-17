@@ -1,0 +1,5 @@
+# ninja log v5
+0	670	1666041865	CMakeFiles/calculator.dir/calculator.cpp.o	5b761f5384403b08
+0	726	1666041865	CMakeFiles/program.dir/Somecode.cpp.o	88521172cbcc0eef
+670	986	1666041866	calculator	186d49ed594614cc
+726	1006	1666041866	program	88e8c371cec7036e

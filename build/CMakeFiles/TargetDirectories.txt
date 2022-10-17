@@ -1,0 +1,4 @@
+/home/i/Desktop/ninja/build/CMakeFiles/rebuild_cache.dir
+/home/i/Desktop/ninja/build/CMakeFiles/edit_cache.dir
+/home/i/Desktop/ninja/build/CMakeFiles/calculator.dir
+/home/i/Desktop/ninja/build/CMakeFiles/program.dir
